@@ -43,6 +43,10 @@
   .js .nav-collapse.closed {
     max-height: none;
   }
+  ul.nav-collapse {
+    display: inline-flex !important;
+    background: red;
+  }
   .nav-toggle {
     display: none;
   }
