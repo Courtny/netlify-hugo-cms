@@ -36,6 +36,10 @@
   color: var(--black);
 }
 
+.blue {
+  color: var(--blue);
+}
+
 .bg-primary {
   background-color: var(--primary);
 }
@@ -70,6 +74,10 @@
 
 .bg-black {
   background-color: var(--black);
+}
+
+.bg-blue {
+  background-color: var(--blue);
 }
 
 .bg-fix-primary {
