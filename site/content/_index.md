@@ -5,19 +5,13 @@ subtitle: >-
   grow through arts & dance.
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why Talent Factory?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    The Talent Factory is a place for children and adults to learn, create, and grow through arts & dance. Located in Lebanon, IN, we opened our doors in April 2015 as an Art & Dance instruction studio serving children in the Boone County community. Founders Jim & Paula Kochert believe in building a place to nurture young performers in the performing arts through creative instruction.
 intro:
   heading: What we offer
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    The Talent Factory’s performing arts programming is diverse, serving a wide distribution of ages, and attracting audiences of varying artistic sensibilities.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
@@ -40,4 +34,3 @@ values:
     want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
 ---
-
