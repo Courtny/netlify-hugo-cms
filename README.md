@@ -2,7 +2,7 @@
 
 This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
 
-I am using it to test content management and learn Hugo.
+I am using it to test content management and learn Hugo. So far I have managed to get a responsive menu working.
 
 ## Getting started
 
